@@ -1,7 +1,7 @@
 # OIBSIP-TASK4
 IRIS FLOWER CLASSIFICATION WITH MACHINE LEARNING - This is a Project completed during my Data Science Internship with OASIS INFOBYTE
 
-The data set can be downloaded from Link : https://github.com/Govardhanaraokotla/OIB.SIP-TASK-4/blob/main/emails.csv
+The data set can be downloaded from Link :https://github.com/binduramella/OIB-SIP-TASK1/blob/main/iris.csv
 
 #### Name : RAMELLA HIMA BINDU
 #### Designation : Data Science Intern  
